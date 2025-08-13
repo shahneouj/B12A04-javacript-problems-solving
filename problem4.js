@@ -16,4 +16,4 @@ function isSame(arr1, arr2) {
     return false
   };
 }
-isSame([1, 4, 5], [1, 4, 5]);
+isSame();
